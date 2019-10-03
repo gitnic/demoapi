@@ -1,0 +1,10 @@
+{
+  "coupons": [
+    {
+      "width": 225,
+      "height": 60,
+      "ring": 17
+      "available": true
+    }
+  ]
+}
