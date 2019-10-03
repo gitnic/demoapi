@@ -1,12 +1,10 @@
 {
   "coupons": [
-    "avaiability": [
-      {
-        "width": 225,
-        "height": 60,
-        "ring": 17,
-        "available": true
-      }
-    ]
+    {
+      "width": 225,
+      "height": 60,
+      "ring": 17,
+      "available": true
+    }
   ]
 }
